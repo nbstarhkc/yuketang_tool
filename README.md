@@ -30,13 +30,12 @@
 - [Edge 商店下载链接](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 ### 第二步：安装脚本
-安装好 Tampermonkey 扩展后，您可以安装本仓库中的脚本文件：
-1. 点击打开仓库里的脚本文件：
-   - [1_大纲页多开协调器.user.js](1_大纲页多开协调器.user.js)
-   - [2_视频自动播放加速助手.user.js](2_视频自动播放加速助手.user.js)
-2. 在 GitHub 的文件页面上，点击 **"Raw"** 按钮（页面右上角附近）。
-3. Tampermonkey 会自动识别并弹出安装界面，点击 **“安装”**。
-   > **💡 提示**：点击 Raw 后，浏览器可能会先短暂显示全是代码的页面，这是正常的。只需稍微等待几秒钟，安装界面就会自动弹出来，不要急着关掉哦。
+安装好 Tampermonkey 扩展后，您可以直接点击下方链接安装脚本（建议**鼠标中键点击**或**右键选择在新标签页中打开**，以免覆盖当前页面）：
+
+1. **[👉 点击安装：1_大纲页多开协调器](https://raw.githubusercontent.com/nbstarhkc/yuketang_tool/main/1_%E5%A4%A7%E7%BA%B2%E9%A1%B5%E5%A4%9A%E5%BC%80%E5%8D%8F%E8%B0%83%E5%99%A8.user.js)**
+2. **[👉 点击安装：2_视频自动播放加速助手](https://raw.githubusercontent.com/nbstarhkc/yuketang_tool/main/2_%E8%A7%86%E9%A2%91%E8%87%AA%E5%8A%A8%E6%92%AD%E6%94%BE%E5%8A%A0%E9%80%9F%E5%8A%A9%E6%89%8B.user.js)**
+
+   > **💡 提示**：点击安装链接后，浏览器可能会先短暂显示全是代码的页面，这是正常的。只需稍微等待几秒钟，Tampermonkey 安装界面就会自动弹出来。
 
 ### 第三步：启动运行
 1. 确保两个脚本在浏览器的 Tampermonkey 管理面板中都处于 **“启用”** 状态。
