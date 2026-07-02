@@ -11,13 +11,13 @@
 如果您在电脑端无法直接找到对应的课程，可以通过微信端获取链接并在电脑浏览器中打开：
 
 1. **进入微信服务号**：在微信搜索“雨课堂”，点击进入服务号“雨课堂”。
-<img src="images/step1.png" width="300" alt="步骤1">
+<img src="images/step_search.png" width="300" alt="步骤1">
 
 2. **找到课程**：在底部菜单点击“我的”，找到您要观看的课程并点击进入。
-<img src="images/step2.png" width="300" alt="步骤2">
+<img src="images/step_course.png" width="300" alt="步骤2">
 
 3. **复制链接**：在课程页面右上角点击菜单，选择“复制链接”。
-<img src="images/step3.png" width="300" alt="步骤3">
+<img src="images/step_link.png" width="300" alt="步骤3">
 
 4. **浏览器中打开**：将复制的链接发送到电脑，并在电脑浏览器中粘贴打开，登录后选择自己要刷的课程。
 
